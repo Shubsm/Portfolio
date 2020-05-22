@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Shubham Mittal",
+    "occupation":"Student",
+    "description":"I am MERN Stack based Full Stack Web Developer.I also have experience of Android Development.",
+    "image":"profilepic.jpg",
+    "bio":"I belong from Computer Science background.Being a philomath, I always have an urge to find and learn new technical things and always developing a new idea.I enjoy working with people to find solution of their problems and share my ideas on them. I am always passionate about my work.",
+    "contactmessage":"Leave Your message and I will back to you as soon as possible.",
+    "email": "mittalshubham600@gmail.com",
+    "phone": "5555555555",
+    "address":{
+      "street":"Rohini Sector-22",
+      "city":"New Delhi",
+      "state":"Delhi",
+      "zip": "110086"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/0B6YtHDv-AJ9nNlo1QkFCczdlNzdmT1BDUVoxdTZ6Y0xtZE5R/view?usp=sharing",
+    "social":[
+     
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/mittalshubham61",
+        "className":"fa fa-twitter"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shub-sm/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/Shub.sm",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Shubsm",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Ability to balance Workloads efficiently, and able to work in constantly changing work enviornment.",
+    "education":[
+      {
+        "school":"Sant Ishar Singh Academy",
+        "degree":"Senior Secondary",
+        "graduated":"June 2016",
+        "description":"I learned that doing your best counted far more than academic ability."
+      },
+      {
+        "school":"Maharaja Agrasen Institute of Technology",
+        "degree":"B.Tech(Computer Science)",
+        "graduated":"August 2021",
+        "description":"It helps me to aquire a range of knowledge in many subjects,as well as advanced knowledge in specific subjects."
+      }
+    ],
+    "work":[
+      {
+        "company":"Campus Chapter Codechef ",
+        "title":"Core Member ",
+        "years":"March 2019 - Present",
+        "description":"We organise workshops,compititive programming contests,ideathons"
+      },
+      {
+        "company":"Microsoft Student Partner",
+        "title":"Student Partner",
+        "years":"March 2020",
+        "description":"To learn and share trending technology"
+      }
+    ],
+    "skills":[
+       {
+        "name":"C++",
+        "level":"70%"
+      },
+      {
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name":"App Development",
+        "level":"73%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Express.js",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+       {
+        "name":"AWS",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"66%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Ride Sharing App",
+        "category":"It is an ride sharing app for fast reliable rides in minutes - day or night.",
+        "image":"download2.jpg",
+        "url":"https://github.com/Shubsm/Uber-Clone"
+      },
+      {
+        "title":"Taste-Byte",
+        "category":"Taste Byte is a food blogging site for sharing and reviewing recipies on your feed.",
+        "image":"download1.jpg",
+        "url":"https://github.com/Shubsm/Taste-byte"
+      },
+      
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume.png",
+        "url":"https://github.com/Shubsm/Resume-website"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Always Stays true to yourself and never let what somebody else says distract from your goals.",
+        "user":"Michele Obama"
+      }
+      
+    ]
+  }
+}
