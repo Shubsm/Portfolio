@@ -44,18 +44,19 @@
   "resume":{
     "skillmessage":"Ability to balance Workloads efficiently, and able to work in constantly changing work enviornment.",
     "education":[
+       {
+        "school":"Maharaja Agrasen Institute of Technology",
+        "degree":"B.Tech(Computer Science)",
+        "graduated":"August 2021",
+        "description":"It helps me to aquire a range of knowledge in many subjects,as well as advanced knowledge in specific subjects."
+      },
       {
         "school":"Sant Ishar Singh Academy",
         "degree":"Senior Secondary",
         "graduated":"June 2016",
         "description":"I learned that doing your best counted far more than academic ability."
-      },
-      {
-        "school":"Maharaja Agrasen Institute of Technology",
-        "degree":"B.Tech(Computer Science)",
-        "graduated":"August 2021",
-        "description":"It helps me to aquire a range of knowledge in many subjects,as well as advanced knowledge in specific subjects."
       }
+     
     ],
     "work":[
       {
